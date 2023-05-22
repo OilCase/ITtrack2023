@@ -1,4 +1,4 @@
-# bb-python
+# IT-track OilCase 2023
 <details>
     <summary style="color: green; font-weight: bold;">ссылки на доп.материалы</summary>
 

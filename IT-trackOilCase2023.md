@@ -546,7 +546,7 @@ df.fillna(val)
 
 </details>
 <details>
-    <summary style="font-weight: bold;  color: green">Процессы генерации последовательностей <span style="color: purple">+ Notebook</span> </summary>
+    <summary style="font-weight: bold;  color: green">Процессы генерации последовательностей</summary>
 
 
     Сгенерировать последовательности можно разными способами, в зависимости от поставленных целей. Для решения этой задачи предлагается использовать, как основу, библиотеки Numpy, Random. 
@@ -602,7 +602,7 @@ seq = np**.**linspace**(**start**,** end**,** count**)**
 </details>
 
 <details>
-    <summary style="font-weight: bold;  color: green">Написание функций <span style="color: purple;">+ Notebook</span></summary>
+    <summary style="font-weight: bold;  color: green">Написание функци</summary>
     Функция — это кусочек программы, который делает что-то полезное. Например, когда мы пишем программу для расчета суммы и возведения ее в куб, она будет содержать функцию, которая эти реализует задуманную формулу.  А еще в ней будут переменные, которые можно менять!
 
 ```python
